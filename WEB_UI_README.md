@@ -125,3 +125,7 @@ The web UI wraps the existing `sherlock_project` core without modifying it. The 
 ## License
 
 MIT — same as the original Sherlock project.
+
+---
+
+Developed by **[KCCS](https://kccsonline.com)** — [kccsonline.com](https://kccsonline.com)
